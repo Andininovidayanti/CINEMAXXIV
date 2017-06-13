@@ -7,7 +7,8 @@ https://drive.google.com/open?id=0B_2Rmg59D_Yoc1VlOFRVbDZPR0U<br><br>
 # Angkatan: 24<br>
 # SMK Telkom Malang<br><br>
 # Alamat API yang digunakan : "https://api.themoviedb.org/3/movie/top_rated?api_key=c29e2e9238f22ef49f7484758fab4ac4&"<br><br>
-# Jenis Navigasi yang digunakan pada Aplikasi : Navigasi 4 (Invitation Drawes Activity)<br>
+# Jenis Navigasi yang digunakan pada Aplikasi <br>
+Navigasi 4 (Invitation Drawes Activity)<br>
 <br>
 # Library dan Local database yang digunakan pada aplikasi<br>
 SQLite Dasar<br><br>
