@@ -1,6 +1,6 @@
 # CINEMA XXIV <br><br>
 # Link File APK release dari Aplikasi <br>
-https://drive.google.com/open?id=0B_2Rmg59D_YobktWOTZMaXczeWs<br><br>
+https://drive.google.com/open?id=0B_2Rmg59D_Yoc1VlOFRVbDZPR0U<br><br>
 # Nama : ANDINI NOVIDAYANTI ARDININGRUM<br>
 # Kelas/no absen : XI RPL3/ 03<br>
 # NIS : 4660/1379.070<br>
